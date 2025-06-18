@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estructura de datos\Experimental01\bin\Debug\net9.0\Experimental01.exe
+C:\Users\User\Documents\Estructura de datos\Experimental01\bin\Debug\net9.0\Experimental01.deps.json
+C:\Users\User\Documents\Estructura de datos\Experimental01\bin\Debug\net9.0\Experimental01.runtimeconfig.json
+C:\Users\User\Documents\Estructura de datos\Experimental01\bin\Debug\net9.0\Experimental01.dll
+C:\Users\User\Documents\Estructura de datos\Experimental01\bin\Debug\net9.0\Experimental01.pdb
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.sourcelink.json
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.dll
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\refint\Experimental01.dll
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.pdb
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\Experimental01.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de datos\Experimental01\obj\Debug\net9.0\ref\Experimental01.dll
