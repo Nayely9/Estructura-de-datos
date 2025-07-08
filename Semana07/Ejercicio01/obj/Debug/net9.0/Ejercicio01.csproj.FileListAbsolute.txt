@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\bin\Debug\net9.0\Ejercicio01.exe
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\bin\Debug\net9.0\Ejercicio01.deps.json
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\bin\Debug\net9.0\Ejercicio01.runtimeconfig.json
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\bin\Debug\net9.0\Ejercicio01.dll
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\bin\Debug\net9.0\Ejercicio01.pdb
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.sourcelink.json
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.dll
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\refint\Ejercicio01.dll
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.pdb
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\Ejercicio01.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de datos\Semana07\Ejercicio01\obj\Debug\net9.0\ref\Ejercicio01.dll
