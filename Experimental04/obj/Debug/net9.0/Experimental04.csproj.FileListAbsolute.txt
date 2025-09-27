@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.sourcelink.json
+C:\Users\User\Documents\Estructura de datos\Experimental04\bin\Debug\net9.0\Experimental04.exe
+C:\Users\User\Documents\Estructura de datos\Experimental04\bin\Debug\net9.0\Experimental04.deps.json
+C:\Users\User\Documents\Estructura de datos\Experimental04\bin\Debug\net9.0\Experimental04.runtimeconfig.json
+C:\Users\User\Documents\Estructura de datos\Experimental04\bin\Debug\net9.0\Experimental04.dll
+C:\Users\User\Documents\Estructura de datos\Experimental04\bin\Debug\net9.0\Experimental04.pdb
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.dll
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\refint\Experimental04.dll
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.pdb
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\Experimental04.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de datos\Experimental04\obj\Debug\net9.0\ref\Experimental04.dll
